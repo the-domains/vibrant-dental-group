@@ -7,14 +7,14 @@ keywords: []
 description: >-
   Find out why we're different. Call us today and see if Vibrant Dental Group is
   right for you. (647) 825-5566
-datePublished: '2016-07-19T19:15:28.350Z'
-dateModified: '2016-07-19T19:15:19.010Z'
+datePublished: '2016-07-19T19:16:15.678Z'
+dateModified: '2016-07-19T19:15:38.118Z'
 title: Every great relationship begins with a conversation.
 author: []
+sourcePath: _posts/2016-07-19-every-great-relationship-begins-with-a-conversation.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-19-every-great-relationship-begins-with-a-conversation.md
 url: every-great-relationship-begins-with-a-conversation/index.html
 _type: Article
 
