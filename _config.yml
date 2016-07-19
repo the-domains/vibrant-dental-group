@@ -1,0 +1,28 @@
+name: Vibrant Dental Group
+favicon: null
+layout_spectrum: 0.7654067582916468
+typography_spectrum: 0.3004001001827419
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4186167868319899
+  lightness: 0.6140883974730968
+  saturation: 0.8821330678183585
+  rhythmicContrast: 0.8981011281721294
+purpose: []
