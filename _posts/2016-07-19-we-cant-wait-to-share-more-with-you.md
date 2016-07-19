@@ -9,10 +9,12 @@ description: >-
   experience - along with a new approach that begins with listening. We'd love
   for you to join the conversation. And learn about how we can put our team to
   work for you. 
-datePublished: '2016-07-19T18:09:09.876Z'
-dateModified: '2016-07-19T18:04:59.858Z'
+datePublished: '2016-07-19T18:28:47.975Z'
+dateModified: '2016-07-19T18:28:03.037Z'
 title: We can't wait to share more with you.
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-19-we-cant-wait-to-share-more-with-you.md
 authors: []
 publisher: null
