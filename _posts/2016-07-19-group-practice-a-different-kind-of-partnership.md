@@ -8,14 +8,14 @@ description: >-
   You've worked hard to build a great dental business. Isn't it time you were
   recognized and rewarded? By joining Vibrant Dental Group, you'll have the full
   support of our team and resources, every step of the way.
-datePublished: '2016-07-19T17:34:09.653Z'
-dateModified: '2016-07-19T17:33:09.906Z'
+datePublished: '2016-07-19T17:36:05.646Z'
+dateModified: '2016-07-19T17:34:18.996Z'
 title: 'Group Practice: A Different Kind of Partnership'
 author: []
+sourcePath: _posts/2016-07-19-group-practice-a-different-kind-of-partnership.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-19-group-practice-a-different-kind-of-partnership.md
 url: group-practice-a-different-kind-of-partnership/index.html
 _type: Article
 
