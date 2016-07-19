@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vibrant Dental Group]]></title>
+        <description><![CDATA[Vibrant Dental Group]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jul 2016 17:16:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We're building a whole new approach to dentistry. ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6733bed-c831-4715-9ce1-113b94d3b9d2.png">]]></description>
+            <link>undefinedwere-building-a-whole-new-approach-to-dentistry/index.html</link>
+            <guid isPermaLink="false">c767df46-de9d-4a78-92c4-f9cd9e785667</guid>
+            <pubDate>Tue, 19 Jul 2016 17:16:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
