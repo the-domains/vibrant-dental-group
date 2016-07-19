@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'And it''s all about one thing: you. '
-datePublished: '2016-07-19T17:58:43.693Z'
-dateModified: '2016-07-19T17:54:31.612Z'
+datePublished: '2016-07-19T18:00:38.015Z'
+dateModified: '2016-07-19T17:58:48.236Z'
 title: We're building a whole new type of dental company.
 author: []
 sourcePath: _posts/2016-07-19-were-building-a-whole-new-approach-to-dentistry.md
