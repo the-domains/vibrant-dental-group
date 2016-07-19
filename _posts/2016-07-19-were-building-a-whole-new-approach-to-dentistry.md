@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We're building a whole new approach to dentistry. And it's all about you.
-datePublished: '2016-07-19T17:16:19.056Z'
-dateModified: '2016-07-19T17:16:12.692Z'
+datePublished: '2016-07-19T17:16:30.591Z'
+dateModified: '2016-07-19T17:16:28.758Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-19-were-building-a-whole-new-approach-to-dentistry.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-19-were-building-a-whole-new-approach-to-dentistry.md
 url: were-building-a-whole-new-approach-to-dentistry/index.html
 _type: Article
 
@@ -29,3 +29,4 @@ We're building a whole new approach to dentistry. And it's all about you.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6733bed-c831-4715-9ce1-113b94d3b9d2.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b3205d8-74d6-4049-b9a6-256377d1fdae.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2535b55f-3d12-4cd5-b9d5-1e2fe1f4554e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d95fb3b-db36-44dd-b27c-5c4799de19b5.jpg)
